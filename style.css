@@ -1,0 +1,59 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 45px;
+    position: absolute;
+    width: 485px;
+    height: 230px;
+    left: 156px;
+    top: 207px;
+    
+}
+.top-half{
+    background-color: #2D25A0;
+    height: 500px;
+    width: 1505x;
+    left: 100px;
+    top: 100px;
+    border-radius: 0px;
+
+
+}
+.top-section{
+    color: white;
+    height: ;
+}
+.top img{
+    
+    height: 438px;
+    width: 556px;
+    left: 100px;
+    top: 0px;
+    border-radius: 0px;
+    position: absolute;
+    margin-left: 1000px;    
+}
+
+/* player box --------------- */
+
+.player-box{
+   display: grid;
+    width: 330px;
+    Height: 474px; 
+    Top: 747px;
+    Left: 180px;
+    Padding: 15px;
+    
+    flex-direction: row;
+    align-items: grid;
+    padding: 15px;
+
+
+}
+.player-box img{
+    position: static;
+    width: 300px;
+    height: 256px;   
+}
